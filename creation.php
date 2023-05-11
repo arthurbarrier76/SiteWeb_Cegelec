@@ -9,7 +9,7 @@
         <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@300&family=Inconsolata&family=Open+Sans:wght@300&family=Roboto+Condensed:wght@300;400&display=swap" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css2?family=Oxygen:wght@300&display=swap" rel="stylesheet">
         <link rel="shortcut icon" href="cegelec-logo.png" type="image/png">
-        <link rel="stylesheet" href="style2.css">
+        <link rel="stylesheet" href="style-pages-connexion-Accueil.css">
         <title>Page_Creation</title>
     </head>
     <body>
@@ -24,7 +24,7 @@
         <section>
             <div class="background">
                 <div class ="box_creation" >
-                    <form action="VERIF.php" method="POST" >
+                    <form action="back-end/VERIF.php" method="POST" >
                     <?php 
                     $mysqli = new mysqli("localhost", "root", "root", "news_commandes");
                     ?>

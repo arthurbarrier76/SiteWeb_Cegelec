@@ -9,7 +9,7 @@
         <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@300&family=Inconsolata&family=Open+Sans:wght@300&family=Roboto+Condensed:wght@300;400&display=swap" rel="stylesheet">
         <link rel="shortcut icon" href="cegelec-logo.png" type="image/png">
         <title>Page_Login</title>
-        <link rel="stylesheet" href="style2.css">
+        <link rel="stylesheet" href="style-pages-connexion-Accueil.css">
     </head>
     <header>
         <div class="container">
@@ -23,7 +23,7 @@
     <body>
         <div class="background2">
             <div class ="box_login  " id="box">
-                <form action="verification.php" method="POST" >
+                <form action="back-end/verification.php" method="POST" >
                     <div class="boxh1">
                         <h1>Connexion</h1>
                     </div>

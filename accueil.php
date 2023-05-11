@@ -8,8 +8,7 @@
         <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400&display=swap" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@300&display=swap" rel="stylesheet">
         <link rel="shortcut icon" href="cegelec-logo.png" type="image/png">
-        <link rel="stylesheet" href="style.css">
-
+        <link rel="stylesheet" href="style-general-site.css">
         <title>Page_Accueil</title>
     </head>
     <body>
