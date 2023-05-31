@@ -1,6 +1,8 @@
 # SiteWeb_Cegelec
 Création d'un site web dynamique avec utilisation d'une BDD.
 
+## Description du projet
+
 Durant mon stage de première année en BTS SNIR, on m'a confié le projet de créer un site web. Il permettra au personnel de l'entreprise de pouvoir consulter les différentes commandes de matériels informatiques. Le site affichera sous la forme d’un tableau les informations suivantes :
 
 • Numéro de Commandes
