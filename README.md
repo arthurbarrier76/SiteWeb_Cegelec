@@ -17,3 +17,7 @@ Afin de sécuriser le site interne, j’ai créé, avec l’accord de mon maîtr
 
 Puis j’ai créé une BDD ( base de données) afin de pouvoir stocker toutes les informations des commandes et pour stocker les identifiants des comptes permettant
 de se connecter sur le site web.
+
+## Langages utilisés
+
+HTML / CSS / PHP / JS
